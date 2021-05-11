@@ -51,7 +51,7 @@
     ```
   ## Demo
 
-  ![team profile generator demo](https://drive.google.com/file/d/15dufW78ClQh19wgZNg-SuK39MFGyiyai/view)
+  [team profile generator demo](https://drive.google.com/file/d/15dufW78ClQh19wgZNg-SuK39MFGyiyai/view)
 
   ## Test
   npm test
